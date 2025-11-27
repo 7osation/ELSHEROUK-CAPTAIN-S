@@ -1,0 +1,7 @@
+{
+  "name": "Community RideShare",
+  "description": "An on-demand transportation app for community drivers and an admin dashboard for management. Drivers can set their status to active and handle rides, while admins can oversee operations and optimize assignments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
